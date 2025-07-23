@@ -1,0 +1,5 @@
+{
+  "name": "Creativerse: AI Storymakers",
+  "description": "An interactive story generator that uses AI to create branching narratives with illustrations. You provide an idea, and the app generates story parts. Choose your favorite to continue the tale and see your unique story come to life.",
+  "requestFramePermissions": []
+}
